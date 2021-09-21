@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name": "fig-app",
+    "slug": "fig-app",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  },
+  "name": "fig-app"
+}
